@@ -7,5 +7,5 @@
 * Выполнены общие настройки: подключены CSS-файлы, созданы семантические контейнеры.
 * Разработаны такие элементы сайта как: шапка, входная секция, секции с карточками, секция "Об аукционе" и подвал сайта.
 ## Ссылка на репозиторий
-[Ссылка на репозиторий]([https://github.com/ErronMeesh/ono-tebe-nado](https://github.com/ErronMeesh/ono-tebe-nado))
-[https://github.com/ErronMeesh/ono-tebe-nado](https://github.com/ErronMeesh/ono-tebe-nado)
+[Ссылка на репозиторий:](https://github.com/ErronMeesh/ono-tebe-nado)
+https://github.com/ErronMeesh/ono-tebe-nado
